@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "my-anisette",
+            "address": "https://mw-sette-server.onrender.com"
+        }
+    ]
+}
